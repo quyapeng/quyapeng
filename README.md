@@ -18,3 +18,9 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quyapeng)
+
+<p align="center">
+ <img src="https://img.shields.io/github/issues/quyapeng/readme-become-better" />
+ <img src="https://img.shields.io/github/forks/quyapeng/readme-become-better" />
+ <img src="https://img.shields.io/github/stars/quyapeng/readme-become-better" />
+</p>
