@@ -1,8 +1,6 @@
 
 ## Hi, this is quyapeng. :wave: ![Profile View Counter](https://komarev.com/ghpvc/?username=quyapeng)
-<h1 align="center">Hi 👋, I'm quyapeng</h1>
 <h3 align="center">A passionate frontend developer from china</h3>
-
 
 - 🔭 I’m currently working on **an education project**
 
