@@ -16,3 +16,5 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <img  src="[https://activity-graph.herokuapp.com](https://github-readme-activity-graph.cyclic.app)/graph?username=quyapeng&theme=minimal" />
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quyapeng)
