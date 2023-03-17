@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm quyapeng</h1>
 <h3 align="center">A passionate frontend developer from china</h3>
 
-- 🔭 I’m currently working on **a education project**
+- 🔭 I’m currently working on **an education project**
 
 - 📫 How to reach me **1095698022@qq.com**
 
